@@ -1,0 +1,39 @@
+{
+  "owners": ["1017182455926624316", "342314924804014081"],
+  "budtenders": ["678399702974070804", "742730447368355930"],
+  "mods": [
+    "679872454369607742",
+    "739849649770463323",
+    "678399702974070804",
+    "742730447368355930"
+  ],
+  "emojis": {
+    "off": ":x:",
+    "error": ":warning:",
+    "queue": ":bar_chart:",
+    "music": ":musical_note:",
+    "success": ":white_check_mark:",
+    "lilbud": "<:emoji_39:827916295068319814>",
+    "queen": "<:Queen:728291200867762258>",
+    "loading": "<a:loading:1039716650242555904>"
+  },
+  "urls": {
+    "tunes": "http://internationalmusiccamp.com/wp-content/uploads/2014/06/Music-Icon.png",
+    "divider": "https://media.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif",
+    "help": "https://media.giphy.com/media/ZbfpeQ9drpDFr5G8vM/giphy.gif"
+  },
+  "money": {
+    "coins": "https://www.coinnews.net/wp-content/uploads/2019/12/2019-Dated-U.S.-Coins.jpg",
+    "bank": "https://informationsecuritybuzz.com/wp-content/uploads/bank-and-security.jpg",
+    "wallet": "https://ae01.alicdn.com/kf/HTB1cBiJQpXXXXbuXXXXq6xXFXXXf/New-men-s-wallet-card-package-short-leather-wallet.jpg"
+  },
+  "help": {
+    "context": "📃",
+    "fun": "🎉",
+    "mod": "🛠️",
+    "owner": "😎",
+    "util": "⚙️",
+    "economy": "💰",
+    "music": "🎧"
+  }
+}
